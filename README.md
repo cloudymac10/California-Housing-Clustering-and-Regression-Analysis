@@ -1,0 +1,2 @@
+# California-Housing-Clustering-and-Regression-Analysis
+This project analyzes the California Housing Dataset using data mining techniques from Scikit-Learn. Methods include K-Means and GMM clustering, regression analysis, and performance evaluation. Tasks include data preprocessing, visualization, feature scaling, supervised learning (linear, LASSO, and Ridge regression), and unsupervised clustering.
